@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a053ad9325433e8478d69554513d4cad
+labels:
+- greathall
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/GreatHall/GreatHall_Wall_Mid2.prefab
+  uploadId: 220802

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 384b0cdd4f51e5e438bcfe4c8420a9ca
+timeCreated: 1425414811
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Materials/BGR_Skybox3.mat
+  uploadId: 220802

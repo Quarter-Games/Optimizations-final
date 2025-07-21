@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3dfb061ee98702a4a854cb86decece33
+labels:
+- ice
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Ice/IceBlock_05.prefab
+  uploadId: 220802

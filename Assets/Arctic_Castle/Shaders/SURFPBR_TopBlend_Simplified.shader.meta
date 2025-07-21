@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4f6bbf75b1c1c245b3e03f08227fccc
+timeCreated: 1425413275
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Shaders/SURFPBR_TopBlend_Simplified.shader
+  uploadId: 220802

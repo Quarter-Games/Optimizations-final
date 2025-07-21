@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5340c41c54253544bcf9a252b51aaf9
+timeCreated: 1426185009
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Misc/Misc_Scaffolding3_Rails.prefab
+  uploadId: 220802

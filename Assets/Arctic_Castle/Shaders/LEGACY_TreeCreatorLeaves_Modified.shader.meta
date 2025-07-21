@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38dd475fe9d45214ba24655d0438264b
+timeCreated: 1426287392
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Shaders/LEGACY_TreeCreatorLeaves_Modified.shader
+  uploadId: 220802

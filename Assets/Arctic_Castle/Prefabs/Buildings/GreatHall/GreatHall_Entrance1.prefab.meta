@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ac02184a53380a4b94bf359e0c4a378
+labels:
+- greathall
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/GreatHall/GreatHall_Entrance1.prefab
+  uploadId: 220802

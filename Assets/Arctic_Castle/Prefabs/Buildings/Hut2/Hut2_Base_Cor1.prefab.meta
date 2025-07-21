@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d8b299240fd3fd4b8f96dd0ab652932
+labels:
+- hut2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut2/Hut2_Base_Cor1.prefab
+  uploadId: 220802

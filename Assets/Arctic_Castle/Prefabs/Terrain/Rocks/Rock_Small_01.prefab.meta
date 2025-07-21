@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2be8e907decc96b448da619ff00d151b
+labels:
+- rocks
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/Rock_Small_01.prefab
+  uploadId: 220802

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c61f656d50c5d6941a479ab2b7cd44a9
+timeCreated: 1514205688
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Meshes/mHelpers/Materials/No Name.mat
+  uploadId: 220802

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a23f36629ffdac742a0e91f522fa12d9
+timeCreated: 1426934063
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Animations/CTRL_Boat1.controller
+  uploadId: 220802

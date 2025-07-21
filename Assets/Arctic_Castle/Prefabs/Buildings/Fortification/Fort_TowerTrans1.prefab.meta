@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d6b99a4ebfcbc14b960050e94b0a938
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_TowerTrans1.prefab
+  uploadId: 220802

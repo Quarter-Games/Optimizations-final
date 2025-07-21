@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71fd1bc62744e2a4db0bfaf1321ba1d9
+labels:
+- storehouse
+timeCreated: 1426695742
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/PreAssembled/StoreHouse_A.prefab
+  uploadId: 220802

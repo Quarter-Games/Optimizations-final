@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26ca9928c8b042b4eae302768c481544
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Deco_Column_Top_DM.prefab
+  uploadId: 220802

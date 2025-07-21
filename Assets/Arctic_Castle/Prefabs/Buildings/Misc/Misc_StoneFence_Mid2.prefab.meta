@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37037ebc775751445944610acb7b5da5
+timeCreated: 1426189627
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Misc/Misc_StoneFence_Mid2.prefab
+  uploadId: 220802

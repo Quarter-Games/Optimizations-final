@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05e067faace4bee4586de10e8a044bc1
+labels:
+- forge
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Forge/Forge_Roof_End.prefab
+  uploadId: 220802

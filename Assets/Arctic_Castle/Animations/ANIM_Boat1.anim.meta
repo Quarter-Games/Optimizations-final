@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94bb062f1f9d6ed49a2b2314c9a32d4a
+timeCreated: 1426934063
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Animations/ANIM_Boat1.anim
+  uploadId: 220802

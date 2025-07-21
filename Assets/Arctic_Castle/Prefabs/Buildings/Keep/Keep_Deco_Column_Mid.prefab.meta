@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 79fda6149087e81419d0bafd4d434f7d
+labels:
+- keep
+timeCreated: 1426260306
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Deco_Column_Mid.prefab
+  uploadId: 220802

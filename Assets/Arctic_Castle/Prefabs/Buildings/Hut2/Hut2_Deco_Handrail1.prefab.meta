@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46a9cbb862e35b342a8e789d3b092211
+labels:
+- hut2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut2/Hut2_Deco_Handrail1.prefab
+  uploadId: 220802

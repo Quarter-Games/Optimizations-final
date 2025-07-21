@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c29edef533a09d64f88bc37c037a35ae
+timeCreated: 1513685194
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/PostProcessing/Profile_Night.asset
+  uploadId: 220802

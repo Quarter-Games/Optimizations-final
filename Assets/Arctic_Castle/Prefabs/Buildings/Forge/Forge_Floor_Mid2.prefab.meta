@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 566fc12481c186e44bf8c00c05f4ed94
+labels:
+- forge
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Forge/Forge_Floor_Mid2.prefab
+  uploadId: 220802

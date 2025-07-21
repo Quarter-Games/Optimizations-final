@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8e1103a0768c5b648a96650ff84c41b2
+labels:
+- rocks
+timeCreated: 1426273524
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/Obelisk_06.prefab
+  uploadId: 220802

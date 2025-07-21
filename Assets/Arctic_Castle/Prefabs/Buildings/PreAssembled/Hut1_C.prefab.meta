@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e6866aede48faa447874b76f276b7671
+labels:
+- hut1
+timeCreated: 1426695641
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/PreAssembled/Hut1_C.prefab
+  uploadId: 220802

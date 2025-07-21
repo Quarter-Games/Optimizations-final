@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d62722a44823c64c833565b47342248
+labels:
+- storehouse
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/StoreHouse/StoreHouse_Column1.prefab
+  uploadId: 220802

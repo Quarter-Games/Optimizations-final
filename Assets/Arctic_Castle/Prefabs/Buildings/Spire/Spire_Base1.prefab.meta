@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67bd84b85afe41949b10a1d874cd3d1f
+labels:
+- spire
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Spire/Spire_Base1.prefab
+  uploadId: 220802

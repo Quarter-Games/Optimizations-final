@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abd687fa348fdc7478b479bf3ebaa9a6
+labels:
+- hut2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut2/Hut2_Top_Mid2.prefab
+  uploadId: 220802

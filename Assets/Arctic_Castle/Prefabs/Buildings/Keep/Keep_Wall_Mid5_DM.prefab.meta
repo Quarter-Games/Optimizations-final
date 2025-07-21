@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2bca4308770f0a6418aa98c41f5907b8
+labels:
+- keep
+timeCreated: 1425820628
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Wall_Mid5_DM.prefab
+  uploadId: 220802

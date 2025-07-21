@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 27669b5c5fe50d44d9deacdc677ed498
+timeCreated: 1513685194
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/PostProcessing/Profile_Daylight.asset
+  uploadId: 220802

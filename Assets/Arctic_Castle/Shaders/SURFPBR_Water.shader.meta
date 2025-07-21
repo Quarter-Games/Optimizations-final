@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a418680b2085424e9c31700d5f855ef
+timeCreated: 1425462125
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Shaders/SURFPBR_Water.shader
+  uploadId: 220802

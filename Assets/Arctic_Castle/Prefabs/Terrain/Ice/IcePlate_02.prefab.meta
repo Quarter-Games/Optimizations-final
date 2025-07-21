@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e97d715b59a15544fa5619ffb3a1eaa4
+labels:
+- ice
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Ice/IcePlate_02.prefab
+  uploadId: 220802

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86460f6bd87a76b48a92e02ce3f44e5e
+timeCreated: 1426184482
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Misc/Misc_Bridge1.prefab
+  uploadId: 220802

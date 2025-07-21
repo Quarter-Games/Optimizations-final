@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2f6b3c03e7d9bb40808165c8ac6d6ef
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Top_Cor2.prefab
+  uploadId: 220802

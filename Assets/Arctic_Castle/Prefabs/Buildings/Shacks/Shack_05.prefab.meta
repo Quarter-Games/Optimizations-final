@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1fe8d1b212ebdae48b35115229114d8f
+labels:
+- shack
+timeCreated: 1426275249
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Shacks/Shack_05.prefab
+  uploadId: 220802

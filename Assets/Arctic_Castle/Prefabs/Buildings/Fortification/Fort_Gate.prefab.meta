@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0846842a1c0c76648a3af2752ef6fb23
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_Gate.prefab
+  uploadId: 220802

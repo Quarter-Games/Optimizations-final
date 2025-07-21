@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9abd30dc7cc1ed84aa11dfcde63d7e74
+labels:
+- hut2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut2/Hut2_Stairs_Mid1.prefab
+  uploadId: 220802

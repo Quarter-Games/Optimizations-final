@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 37994a290b947c24abb8e334ba44488a
+timeCreated: 1514073162
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scripts/TriggerCell.cs
+  uploadId: 220802

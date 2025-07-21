@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7c2c43f5ca0917644913afaa65f1643c
+labels:
+- keep
+timeCreated: 1426617585
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Floor_Mid1_DM2.prefab
+  uploadId: 220802

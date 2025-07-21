@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bde5896ab7768124eb749c8c42a78129
+timeCreated: 1426185742
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Bench1.prefab
+  uploadId: 220802

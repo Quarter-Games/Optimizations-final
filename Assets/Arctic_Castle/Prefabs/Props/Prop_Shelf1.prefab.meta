@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0fc2955ecf2c1c49baaf8e089fbfc7e
+labels:
+- shelf
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Shelf1.prefab
+  uploadId: 220802

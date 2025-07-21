@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d66a7342e1537644e870501bb4e83f41
+labels:
+- chair
+timeCreated: 1426176942
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Chair2.prefab
+  uploadId: 220802

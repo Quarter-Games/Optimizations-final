@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13c74ca9378950e42952ff1f029651ae
+timeCreated: 1426343717
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Atmospherics/ATM_VolumeLight1.prefab
+  uploadId: 220802

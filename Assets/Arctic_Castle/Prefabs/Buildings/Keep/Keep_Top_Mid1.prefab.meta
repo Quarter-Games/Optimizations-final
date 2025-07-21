@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ff1312902f1a034cb145c7be30155c5
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Top_Mid1.prefab
+  uploadId: 220802

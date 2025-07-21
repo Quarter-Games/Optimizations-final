@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3e34d5c138e4f2a4085ddcde6ebec845
+timeCreated: 1514227326
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Helpers/TorchLight.prefab
+  uploadId: 220802

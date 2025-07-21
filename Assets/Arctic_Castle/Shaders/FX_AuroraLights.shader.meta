@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4fb307a43aa125245887442511ca373b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Shaders/FX_AuroraLights.shader
+  uploadId: 220802

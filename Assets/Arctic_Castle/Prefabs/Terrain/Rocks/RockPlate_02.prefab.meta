@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80d4b1b22e45f7f4f8b142d0a833afd4
+labels:
+- rocks
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/RockPlate_02.prefab
+  uploadId: 220802

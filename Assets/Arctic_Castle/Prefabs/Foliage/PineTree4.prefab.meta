@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7238844f79a164d4186ffe92ded03000
+labels:
+- pinetree
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Foliage/PineTree4.prefab
+  uploadId: 220802

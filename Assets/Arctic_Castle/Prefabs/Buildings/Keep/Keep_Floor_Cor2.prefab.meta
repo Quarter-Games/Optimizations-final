@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd5f0e56062b0f6489fef6b1e9f9e755
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Floor_Cor2.prefab
+  uploadId: 220802

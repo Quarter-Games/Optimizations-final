@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 87ee7572346243b42ac565669070b865
+labels:
+- bed
+timeCreated: 1426177735
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Bed1.prefab
+  uploadId: 220802

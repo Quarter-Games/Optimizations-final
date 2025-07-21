@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac01b435af0eae2478d72ac6b010ecac
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_Platform1_Stairs.prefab
+  uploadId: 220802

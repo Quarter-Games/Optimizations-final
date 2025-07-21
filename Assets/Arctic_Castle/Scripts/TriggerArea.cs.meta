@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bff71dd5e875a8e4e9d028dbcc6ea903
+timeCreated: 1514073162
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scripts/TriggerArea.cs
+  uploadId: 220802

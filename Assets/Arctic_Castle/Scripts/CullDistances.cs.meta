@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 09e8219d38c5b584c98c2560229a3ae5
+timeCreated: 1514037588
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scripts/CullDistances.cs
+  uploadId: 220802

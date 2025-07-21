@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b16a3e7259569174cbcfb1092907c895
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_Platform1_Cor2.prefab
+  uploadId: 220802

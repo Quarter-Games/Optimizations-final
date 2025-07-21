@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92346422213ecf74e9df087611f94012
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_Gallows1.prefab
+  uploadId: 220802

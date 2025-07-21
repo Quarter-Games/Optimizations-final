@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae401d4ad411a304b96876b09b72ed5a
+labels:
+- rocks
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/Rock_Large_02.prefab
+  uploadId: 220802

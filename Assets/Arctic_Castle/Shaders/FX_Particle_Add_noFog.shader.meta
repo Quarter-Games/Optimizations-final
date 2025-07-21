@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 52909635020ad0b41a10b74bb7d7e495
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Shaders/FX_Particle_Add_noFog.shader
+  uploadId: 220802

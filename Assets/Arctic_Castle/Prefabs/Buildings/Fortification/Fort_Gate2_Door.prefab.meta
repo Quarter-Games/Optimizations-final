@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34d4a982c550c7e458fba15e6f2ad051
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_Gate2_Door.prefab
+  uploadId: 220802

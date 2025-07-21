@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71bb875646c559d4db46ec032a77840a
+labels:
+- keep
+timeCreated: 1426260986
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Wall_Mid3.prefab
+  uploadId: 220802

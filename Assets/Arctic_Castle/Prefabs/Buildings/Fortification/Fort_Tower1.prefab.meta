@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6b0a5b95df10b944b8384ada719e9b6
+labels:
+- fortification
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_Tower1.prefab
+  uploadId: 220802

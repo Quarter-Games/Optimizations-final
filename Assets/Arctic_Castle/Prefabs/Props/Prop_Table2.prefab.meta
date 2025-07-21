@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ceb1c31118fd7aa43b49bdde86a88bc2
+labels:
+- table
+timeCreated: 1426178465
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Table2.prefab
+  uploadId: 220802

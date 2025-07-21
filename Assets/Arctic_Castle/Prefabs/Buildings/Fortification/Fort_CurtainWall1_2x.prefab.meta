@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c2ebf2eb6fe14a04fa983d55fd0e913d
+labels:
+- fortification
+timeCreated: 1426263964
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Fortification/Fort_CurtainWall1_2x.prefab
+  uploadId: 220802

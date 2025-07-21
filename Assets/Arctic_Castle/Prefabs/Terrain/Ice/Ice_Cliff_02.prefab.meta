@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c75a3c2449de0c9439bdd6358b624b9b
+labels:
+- ice
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Ice/Ice_Cliff_02.prefab
+  uploadId: 220802

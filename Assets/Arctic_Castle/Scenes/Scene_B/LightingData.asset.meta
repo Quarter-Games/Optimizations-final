@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 00fc1bd28f2189f4aa56a142bddee717
+timeCreated: 1514036476
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scenes/Scene_B/LightingData.asset
+  uploadId: 220802

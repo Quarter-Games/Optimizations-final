@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea73dacaab940ee47b213d2038da65b3
+labels:
+- mountain
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Backgrounds/Mountain2.prefab
+  uploadId: 220802

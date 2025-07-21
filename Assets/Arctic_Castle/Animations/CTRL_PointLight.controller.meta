@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8ce4984d167d5347b11e0f0c9a459ef
+timeCreated: 1426341338
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Animations/CTRL_PointLight.controller
+  uploadId: 220802

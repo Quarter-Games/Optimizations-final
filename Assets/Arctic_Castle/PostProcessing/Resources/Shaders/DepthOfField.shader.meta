@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac8ed710934a3564686a096bb351caee
+timeCreated: 1465484939
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/PostProcessing/Resources/Shaders/DepthOfField.shader
+  uploadId: 220802

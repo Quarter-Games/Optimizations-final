@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be6bf12992f7cf94f9779a915809db92
+labels:
+- forge
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Forge/Forge_Wall_End1.prefab
+  uploadId: 220802

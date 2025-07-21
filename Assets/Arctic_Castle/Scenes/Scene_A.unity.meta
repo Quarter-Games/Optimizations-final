@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e67925388ce72446a594630e71d4a6d
+timeCreated: 1513684788
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scenes/Scene_A.unity
+  uploadId: 220802

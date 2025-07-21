@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef565027c11e78d468c723f775c6f3c6
+labels:
+- storehouse
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/StoreHouse/Storehouse_Wall_Mid2.prefab
+  uploadId: 220802

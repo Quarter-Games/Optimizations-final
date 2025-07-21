@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a83e99468ccbdd4e801235cdb3d6ab2
+labels:
+- greathall
+timeCreated: 1426703685
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/PreAssembled/GreatHall_C.prefab
+  uploadId: 220802

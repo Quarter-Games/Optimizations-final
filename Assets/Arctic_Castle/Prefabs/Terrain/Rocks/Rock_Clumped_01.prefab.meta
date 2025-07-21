@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76a282791b5721248ba599681121d8ae
+labels:
+- rocks
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/Rock_Clumped_01.prefab
+  uploadId: 220802

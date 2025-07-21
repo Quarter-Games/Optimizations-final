@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8218b4f3f7f50994f89e6b8c7d815d1f
+labels:
+- palisade
+timeCreated: 1426183816
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Misc/Misc_Palisade1.prefab
+  uploadId: 220802

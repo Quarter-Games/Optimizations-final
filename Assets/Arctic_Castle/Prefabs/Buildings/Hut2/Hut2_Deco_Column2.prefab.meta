@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0409291ec3ef6c4fa3454b0c3a917ea
+labels:
+- hut2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut2/Hut2_Deco_Column2.prefab
+  uploadId: 220802

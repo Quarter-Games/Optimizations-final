@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 28d5a7c3769b2364286fab21884844b3
+timeCreated: 1514233359
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scenes/Scene_B/OcclusionCullingData.asset
+  uploadId: 220802

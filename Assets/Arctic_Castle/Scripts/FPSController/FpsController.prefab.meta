@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f01c395b77ceb364692537bcf4cf83d6
+timeCreated: 1513602894
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scripts/FPSController/FpsController.prefab
+  uploadId: 220802

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63792f7f7b0c10a4eaf6ec25f5865070
+labels:
+- ice
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Ice/IceFloaters_02.prefab
+  uploadId: 220802

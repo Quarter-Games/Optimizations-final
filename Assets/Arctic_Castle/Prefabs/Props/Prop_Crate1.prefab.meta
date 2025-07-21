@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56bfbdff56d85fe469b0b67639333cdf
+labels:
+- crate
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Crate1.prefab
+  uploadId: 220802

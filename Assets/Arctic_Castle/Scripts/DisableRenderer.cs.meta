@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 70fb0c78516ab3743ad335298fe11f79
+timeCreated: 1513938811
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Scripts/DisableRenderer.cs
+  uploadId: 220802

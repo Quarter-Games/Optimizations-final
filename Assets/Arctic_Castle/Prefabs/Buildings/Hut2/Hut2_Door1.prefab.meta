@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 497634aa37d285b44a1423a8ec98a33d
+labels:
+- hut2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut2/Hut2_Door1.prefab
+  uploadId: 220802

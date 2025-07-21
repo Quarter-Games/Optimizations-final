@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f6847bc855a62f46a368d860aa60bec
+labels:
+- hut1
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Hut1/Hut1_Wall_Mid3.prefab
+  uploadId: 220802

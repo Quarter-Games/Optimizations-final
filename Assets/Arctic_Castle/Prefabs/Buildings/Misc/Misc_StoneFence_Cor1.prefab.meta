@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70c4fd6ec04d1694d8c6d5857df85657
+timeCreated: 1426189547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Misc/Misc_StoneFence_Cor1.prefab
+  uploadId: 220802

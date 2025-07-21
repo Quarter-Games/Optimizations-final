@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef551d9f60f3e084ea5dfbc6dc64e6a0
+labels:
+- rocks
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/Rock_Cliff_09.prefab
+  uploadId: 220802

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3f3ca86c27203843b257763138e7d3a
+labels:
+- barrel
+timeCreated: 1426177560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Barrel1.prefab
+  uploadId: 220802

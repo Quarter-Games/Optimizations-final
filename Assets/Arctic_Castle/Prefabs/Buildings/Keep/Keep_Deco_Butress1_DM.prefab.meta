@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6af0936407b2a244582d0637fa3b87f9
+labels:
+- keep
+timeCreated: 1426005141
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Deco_Butress1_DM.prefab
+  uploadId: 220802

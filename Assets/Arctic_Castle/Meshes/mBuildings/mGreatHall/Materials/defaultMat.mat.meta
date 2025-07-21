@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d84045532b4383d4ca4a476cf13c5c66
+timeCreated: 1428943119
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Meshes/mBuildings/mGreatHall/Materials/defaultMat.mat
+  uploadId: 220802

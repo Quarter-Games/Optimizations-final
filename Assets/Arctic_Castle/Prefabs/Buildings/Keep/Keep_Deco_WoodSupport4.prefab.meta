@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 516f082e3c0df654aa32e5fc4cbc2cb4
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Deco_WoodSupport4.prefab
+  uploadId: 220802

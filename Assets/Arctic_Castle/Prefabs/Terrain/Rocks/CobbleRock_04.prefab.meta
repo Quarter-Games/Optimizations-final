@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ec96636d698a47468c7a04e2be98d9d
+labels:
+- rocks
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Terrain/Rocks/CobbleRock_04.prefab
+  uploadId: 220802

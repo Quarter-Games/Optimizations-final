@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9791921ad1b257489e13a74465cb92d
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Wall_Int2.prefab
+  uploadId: 220802

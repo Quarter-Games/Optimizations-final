@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b71bc7cefd5ebc7408d614e480aee4e6
+labels:
+- greathall
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/GreatHall/GreatHall_Door1.prefab
+  uploadId: 220802

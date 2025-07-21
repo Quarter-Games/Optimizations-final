@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b46e29145708ded45bbbabe2d84a5dd3
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Deco_Arc1.prefab
+  uploadId: 220802

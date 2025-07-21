@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 771ec25f326f0f14ebfaf2f94617cbe5
+labels:
+- watchtower
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Watchtowers/Watchtower2_Top.prefab
+  uploadId: 220802

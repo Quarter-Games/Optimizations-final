@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6dcb28328aedfd843bd7abd228e67040
+timeCreated: 1426328969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Rug2_LOD.prefab
+  uploadId: 220802

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 269274e537e3aa74693a3598d77ee42c
+labels:
+- keep
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Keep/Keep_Door1_A.prefab
+  uploadId: 220802

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aa9c2cb3e920c3f47b42856e8ccf4257
+labels:
+- basket
+timeCreated: 1426177390
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Basket2.prefab
+  uploadId: 220802

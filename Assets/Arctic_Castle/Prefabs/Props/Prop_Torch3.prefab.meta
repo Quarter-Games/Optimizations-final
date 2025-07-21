@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a65eb193adea9c940b86ddd2225e3e62
+labels:
+- torch
+timeCreated: 1426181943
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Props/Prop_Torch3.prefab
+  uploadId: 220802

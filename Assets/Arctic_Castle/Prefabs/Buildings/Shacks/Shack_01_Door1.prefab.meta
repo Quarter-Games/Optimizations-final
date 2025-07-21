@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bb8a631b4d82e9468904d21759e434a
+labels:
+- shack
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/Shacks/Shack_01_Door1.prefab
+  uploadId: 220802

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e02a41075b42f3e469f38ed2e9c2a754
+labels:
+- forge
+timeCreated: 1426697819
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32972
+  packageName: Arctic Castle
+  packageVersion: 1.1
+  assetPath: Assets/Arctic_Castle/Prefabs/Buildings/PreAssembled/Forge_A.prefab
+  uploadId: 220802
