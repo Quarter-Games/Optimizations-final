@@ -15,6 +15,7 @@ public class CharController_Motor : MonoBehaviour, ISaveable {
 
 
 	void Start(){
+		SaveManager.Load("0");
 		//LockCursor ();
 		character = GetComponent<CharacterController> ();
 		if (Application.isEditor) {
@@ -22,10 +23,14 @@ public class CharController_Motor : MonoBehaviour, ISaveable {
 			sensitivity = sensitivity * 2;
 		}
 	}
+    private void OnDestroy()
+    {
+        SaveManager.Save("0");
+    }
 
 
 
-	void Update(){
+    void Update(){
 		moveFB = Input.GetAxis ("Horizontal") * speed;
 		moveLR = Input.GetAxis ("Vertical") * speed;
 
@@ -64,6 +69,7 @@ public class CharController_Motor : MonoBehaviour, ISaveable {
 		transform.position = (state as Vector3Wrapper).Get();
 	}
 }
+
 public class Vector3Wrapper
 {
 	public float x, y, z;
