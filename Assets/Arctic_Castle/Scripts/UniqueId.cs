@@ -7,7 +7,7 @@ using System;
 [ExecuteAlways]
 public class UniqueId : MonoBehaviour
 {
-    [SerializeField, HideInInspector] private string id;
+    [SerializeField] private string id;
 
     public string Id
     {
