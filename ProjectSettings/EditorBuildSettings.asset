@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Arctic_Castle/Scenes/LevelLoader.unity
     guid: e4021beb7b0cb9045ad0b83e2183f972
-  - enabled: 1
+  - enabled: 0
     path: Assets/Arctic_Castle/Scenes/PreAssembled_01.unity
     guid: 3c6b28181d85d514885032d67df8c6ac
   - enabled: 1
@@ -17,10 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Arctic_Castle/Scenes/Scene_B.unity
     guid: 49243a6982d9acc49b5ab14454a5049f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Arctic_Castle/Scenes/Scene_C.unity
     guid: 96a88beab7977ac4380379bf253ae1d8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Arctic_Castle/Scenes/Scene_D.unity
     guid: 07d4ef3283484fb44b0f974eab50b252
   m_configObjects:
