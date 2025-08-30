@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharController_Motor : MonoBehaviour {
+public class CharController_Motor : MonoBehaviour, ISaveable {
 
 	public float speed = 2f;
 	public float sensitivity = 10.0f;
@@ -54,7 +54,29 @@ public class CharController_Motor : MonoBehaviour {
 		cam.transform.Rotate (-rotY * Time.deltaTime, 0, 0);
 	}
 
+    public object CaptureState()
+    {
+		return new Vector3Wrapper (transform.position);
+			}
 
+    public void RestoreState(object state)
+    {
+		transform.position = (state as Vector3Wrapper).Get();
+	}
+}
+public class Vector3Wrapper
+{
+	public float x, y, z;
+	public Vector3Wrapper(Vector3 pos)
+	{
+		x = pos.x;
+		y = pos.y;
+		z = pos.z;
 
+	}
 
+	public Vector3 Get()
+	{
+		return new Vector3 (x, y, z);
+	}
 }
