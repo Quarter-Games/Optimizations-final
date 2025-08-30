@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 487934}
   - component: {fileID: 3361722}
   - component: {fileID: 2341560}
-  - component: {fileID: 6490430}
+  - component: {fileID: 5197483115260283015}
   m_Layer: 0
   m_Name: Keep_Wall_Mid5_DM
   m_TagString: Untagged
@@ -87,8 +87,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6490430
-MeshCollider:
+--- !u!65 &5197483115260283015
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -105,7 +105,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: ee4c261068f492e46abc3c5901ffbe47, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 7.0000215, y: 7.00002, z: 1.0594773}
+  m_Center: {x: -3.4999974, y: 3.4999967, z: 0.70328844}

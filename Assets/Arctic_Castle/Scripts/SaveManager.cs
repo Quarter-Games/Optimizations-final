@@ -39,7 +39,7 @@ public static class SaveManager
             var entries = new List<SaveEntry>();
 
             // Find all saveables in scene
-            var saveables = UnityEngine.Object.FindObjectsOfType<MonoBehaviour>(true);
+            var saveables = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(true);
             foreach (var mb in saveables)
             {
                 if (mb is ISaveable s)
@@ -101,7 +101,7 @@ public static class SaveManager
             var byId = new Dictionary<string, SaveEntry>();
             foreach (var e in save.entries) byId[e.id] = e;
 
-            var saveables = UnityEngine.Object.FindObjectsOfType<MonoBehaviour>(true);
+            var saveables = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(true);
             foreach (var mb in saveables)
             {
                 if (mb is ISaveable s)
