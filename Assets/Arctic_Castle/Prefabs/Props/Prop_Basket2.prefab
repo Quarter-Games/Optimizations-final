@@ -12,12 +12,13 @@ GameObject:
   - component: {fileID: 33665789763541478}
   - component: {fileID: 23166825800905466}
   - component: {fileID: 8191565218525894479}
+  - component: {fileID: 2754564929370336203}
   m_Layer: 8
   m_Name: Prop_Basket2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &471952
 Transform:
@@ -108,3 +109,26 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.5, y: 1.15, z: 1.54}
   m_Center: {x: -0.057746947, y: 0.64557964, z: 0.07132685}
+--- !u!205 &2754564929370336203
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170288}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0.057746947, y: 0.64557964, z: -0.07132685}
+  m_Size: 1.8144755
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.25
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 2300002, guid: f3ed2a181f46a20488d5db6e9d593ad2, type: 3}
+  - screenRelativeHeight: 0.01
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 2300004, guid: f3ed2a181f46a20488d5db6e9d593ad2, type: 3}
+  m_Enabled: 1
