@@ -11,9 +11,9 @@ public static class SaveManager
     [Serializable]
     private class SaveEntry
     {
-        public string id;      
-        public string type;    
-        public string json;    
+        public string id;
+        public string type;
+        public string json;
     }
 
     [Serializable]
@@ -22,7 +22,7 @@ public static class SaveManager
         public int version;
         public List<SaveEntry> entries = new List<SaveEntry>();
         public string savedAtIsoUtc;
-        public string scene; 
+        public string scene;
     }
 
     public static string GetSavePath(string slot)
@@ -39,7 +39,7 @@ public static class SaveManager
             var entries = new List<SaveEntry>();
 
             // Find all saveables in scene
-            var saveables = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(true);
+            var saveables = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(FindObjectsInactive.Include, FindObjectsSortMode.None);
             foreach (var mb in saveables)
             {
                 if (mb is ISaveable s)
@@ -54,12 +54,12 @@ public static class SaveManager
                     var state = s.CaptureState();
                     if (state == null) continue;
 
-                    
+
                     string payloadJson = JsonUtility.ToJson(state);
                     entries.Add(new SaveEntry
                     {
                         id = uid.Id,
-                        type = state.GetType().AssemblyQualifiedName, 
+                        type = state.GetType().AssemblyQualifiedName,
                         json = payloadJson
                     });
                 }
@@ -101,7 +101,7 @@ public static class SaveManager
             var byId = new Dictionary<string, SaveEntry>();
             foreach (var e in save.entries) byId[e.id] = e;
 
-            var saveables = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(true);
+            var saveables = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(FindObjectsInactive.Include, FindObjectsSortMode.None);
             foreach (var mb in saveables)
             {
                 if (mb is ISaveable s)
