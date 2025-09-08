@@ -111,7 +111,7 @@ GameObject:
   - component: {fileID: 143062276123960700}
   - component: {fileID: 114980847967019664}
   - component: {fileID: 2033989817010269459}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FpsController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
